@@ -1,4 +1,4 @@
-# NHshopContest_PNU (2020.08.01 ~ 2020.09.28)
+# NSshopContest_PNU (2020.08.03 ~ 2020.09.28)
 Pusan National Univ. BigContest
 03_2020 빅콘테스트 대회문제 설명_데이터분석분야 챔피언리그
 
